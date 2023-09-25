@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Акции", 
+		SITE_DIR."/sale/", 
+		Array(), 
+		Array("CLASS"=>"icon sale_icon", "ICON"=>"icon_discount"), 
+		"" 
+	),
+	Array(
+		"Сотрудничество", 
+		SITE_DIR."", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Бренды", 
+		SITE_DIR."", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		SITE_DIR."", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Обучение", 
+		SITE_DIR."", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

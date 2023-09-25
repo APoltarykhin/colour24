@@ -1,0 +1,17 @@
+<?
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("Title");
+?><pre>.idea
+/.htaccess
+/bitrix
+/upload
+/local/php_interface/constants.php
+/*.txt
+/*.html
+~*.php
+*.log
+*.xml
+/*.sql
+Thumbs.db
+.DS_Store
+._.DS_Store</pre><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

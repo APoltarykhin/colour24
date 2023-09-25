@@ -1,0 +1,1 @@
+<a href="mailto:studio.colour@yandex.ru">studio.colour@yandex.ru</a>
